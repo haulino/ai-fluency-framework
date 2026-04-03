@@ -7,6 +7,8 @@ The AI Fluency Framework centers on the "4D" competencies
 - Discernment
 - Diligence
 
+AI Fluency Framework available at https://anthropic.skilljar.com/ai-fluency-framework-foundations
+
 ## Hands on
 This project applies my understanding of the four core competencies of the AI Fluency Framework to a practical multi-step project
 
