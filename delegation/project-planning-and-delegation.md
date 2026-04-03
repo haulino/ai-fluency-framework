@@ -1,4 +1,4 @@
-# Project planning and deleagtion aligned with Delegation core principle
+# Project planning and delegation aligned with Delegation core principle
 
 Create a professional GitHub profile README that positions the author for collaboration opportunities while demonstrating the AI Fluency Framework's Delegation competency through the creation process itself.
 
