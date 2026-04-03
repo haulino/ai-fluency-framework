@@ -9,3 +9,5 @@ The AI Fluency Framework centers on the "4D" competencies
 
 ## Hands on
 This project applies my understanding of the four core competencies of the AI Fluency Framework to a practical multi-step project
+
+See [Delegation deliverable](project-planning-and-delegation.md)
