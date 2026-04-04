@@ -9,7 +9,9 @@ The AI Fluency Framework centers on the "4D" competencies
 
 AI Fluency Framework available at https://anthropic.skilljar.com/ai-fluency-framework-foundations
 
-## Hands on
-This project applies my understanding of the four core competencies of the AI Fluency Framework to a practical multi-step project
+## Competency Exercises
 
-See [Delegation deliverable](project-planning-and-delegation.md)
+Hands-on exercises practicing each of the 4D competencies.
+
+- **Delegation** — [Project Planning and Delegation](delegation/project-planning-and-delegation.md)
+- **Description** — [Bad Prompt Makeover](description/bad-prompt-makeover.md)
