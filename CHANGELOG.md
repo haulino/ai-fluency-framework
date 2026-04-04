@@ -21,5 +21,6 @@
 - Course deliverable and link
 - Course link reference
 
+[v1.2.0]: https://github.com/haulino/ai-fluency-framework/releases/tag/v1.2.0
 [v1.1.0]: https://github.com/haulino/ai-fluency-framework/releases/tag/v1.1.0
 [v1.0.0]: https://github.com/haulino/ai-fluency-framework/releases/tag/v1.0.0
