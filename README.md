@@ -15,3 +15,4 @@ Hands-on exercises practicing each of the 4D competencies.
 
 - **Delegation** — [Project Planning and Delegation](delegation/project-planning-and-delegation.md)
 - **Description** — [Bad Prompt Makeover](description/bad-prompt-makeover.md)
+- **Discernment** — [Evaluating AI responses for Specific Domain](discernment/evaluating-ai-responses-in-your-domain.md)
