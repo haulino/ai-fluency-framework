@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.2.0] - 2026-05-03
+
+### Added
+- Discernment competency exercise
+- Discernment key takeaways
+- README.md reference
+
 ## [v1.1.0] - 2026-04-03
 
 ### Added
