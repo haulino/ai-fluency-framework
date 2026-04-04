@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.2.1] - 2026-05-03
+
+### Added
+- Explicit coursework link description in README.md
+
+### Changed
+- Switch license from MIT to CC BY-NC-SA 4.0
+
 ## [v1.2.0] - 2026-05-03
 
 ### Added
