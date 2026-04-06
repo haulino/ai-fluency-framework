@@ -7,7 +7,7 @@ The AI Fluency Framework centers on the "4D" competencies
 - Discernment
 - Diligence
 
-AI Fluency Framework course available at https://anthropic.skilljar.com/ai-fluency-framework-foundations
+AI Fluency Framework course available at https://anthropic.skilljar.com/ai-fluency-framework-foundations. This course is the result of a long partnership between Anthropic and professors Rick Dakan from Ringling College of Art and Design and Joseph Feller from University College Cork. Rick and Joe developed the AI Fluency Framework in 2023-2024, based on their research exploring how AI tools like Claude were transforming creative and business processes.
 
 ## Competency Exercises
 
